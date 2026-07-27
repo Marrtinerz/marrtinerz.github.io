@@ -8,7 +8,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### 1. ShelterTree | Lead Full-Stack Engineer
 *A pan-African property intelligence and review platform.*
