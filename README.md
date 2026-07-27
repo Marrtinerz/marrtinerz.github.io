@@ -1,4 +1,4 @@
-**[LinkedIn](https://www.linkedin.com/in/mnnamchi/) | [GitHub](https://github.com/Marrtinerz) | [Email](mailto:martins.nnamchi@colorado.edu)**
+**[LinkedIn](https://www.linkedin.com/in/mnnamchi/) | [GitHub](https://github.com/Marrtinerz) | [Edu mail](mailto:martins.nnamchi@colorado.edu) | [Gmail](mailto:mnnamchi@gmail.com)**
 
 Hello! I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web applications using **Python, Django, and PostgreSQL**. 
 
@@ -10,7 +10,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ### 1. ShelterTree | Lead Full-Stack Engineer
 *A pan-African property intelligence and review platform.*
-**[Live Site](https://mysheltertree.com) | [GitHub Repository](LINK_TO_REPO)**
+**[Live Site](https://mysheltertree.com) | [GitHub Repository](https://github.com/Marrtinerz/sheltertree)**
 - **Tech Stack:** Python, Django, PostgreSQL, HTMX, Docker, Render, AWS S3
 - **Architecture:** Engineered a hybrid PostgreSQL search engine utilizing `SearchVector` and `SearchRank` for highly accurate lexical matching without the overhead of Elasticsearch.
 - **Key Feature:** Designed a "Lazy Registration" funnel using Django Sessions and Signals for a "Trusted Handoff," instantly migrating orphaned user-generated data to new accounts post-authentication.
@@ -18,7 +18,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ### 2. HitchARide | Full-Stack Engineer
 *A cost-sharing carpooling platform tailored for the African megacity market.*
-**[GitHub Repository](LINK_TO_REPO)**
+**[GitHub Repository](https://github.com/Marrtinerz/hitcharide)**
 - **Tech Stack:** Python, Django, PostgreSQL, Mapbox GL JS, Google Maps API
 - **Data Integrity:** Prevented race conditions in high-concurrency environments by implementing database-level locking (`select_for_update()`) and atomic transactions for the seat-booking engine.
 - **Integrations:** Decoded Google Encoded Polylines and rendered dynamic routes using Mapbox GL JS, abstracting the API layer to prevent vendor lock-in.
@@ -28,18 +28,18 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ## 🧠 AI, Data & API Projects
 
-### 3. Predictive Modeling & FLASK Deployment of Wind-Energy
-**[GitHub Repository](LINK_TO_REPO)**
+### 3. Predictive Modeling & FLASK Deployment of Wind-Energy Using Time Series and Regression Analyses
+**[GitHub Repository](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
 - **Tech Stack:** Python, Flask, XGBoost, Time Series Analysis
 - Developed XGBOOST-trained ML models to forecast wind energy generation and deployed the model using a **Flask** web application, creating an interactive endpoint that delivers real-time energy predictions.
 
-### 4. Celebrity Identification via Google Gemini 2.0 API
-**[GitHub Repository](LINK_TO_REPO)**
+### 4. Celebrity Identification Using Prompt Engineering via Google Gemini API
+**[GitHub Repository](https://github.com/Marrtinerz/AI-Agents)**
 - **Tech Stack:** Python, Google Gemini 2.0 Flash API, IPyWidgets
 - Developed an AI-powered recognition system demonstrating expertise in prompt engineering, image analysis, and secure LLM API integration.
 
-### 5. SpaceX Launch Analysis Interactive Dashboard
-**[GitHub Repository](LINK_TO_REPO) | [Full PDF Report](LINK_TO_REPORT)**
+### 5. SpaceX Launch Analysis and Landing Predictions
+**[GitHub Repository](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions) | [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)**
 - **Tech Stack:** Python, Dash/Plotly, REST APIs, SQL
 - Built an interactive Dash web application with real-time visualizations (maps and graphs) leveraging REST APIs and web scraping for data collection.
 
@@ -57,4 +57,4 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 - **Master of Science in Electrical and Computer Engineering** | *University of Colorado Boulder* (Expected Dec 2025)
 - **Bachelor of Science in Chemistry (Honors)** | *University of Ilorin, Nigeria* (2013–2017)
-- **Certifications:** ChatGPT Prompt Engineering (DeepLearning.AI) | Foundations of Data Structures and Algorithms (CU Boulder)
+- **Certifications:** [ChatGPT Prompt Engineering (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/f9002b4a-31cf-4ceb-9aef-c7d65b1742c5?usp=sharing) | [Foundations of Data Structures and Algorithms (CU Boulder)]([url](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)) | [Trees and Graph DSA (CU Boulder)](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0) [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
