@@ -1,14 +1,8 @@
-## 
-<div class="link-container">
-  <a href="https://www.linkedin.com/in/mnnamchi/" target="_blank">LinkedIn</a>
-  <a href="https://github.com/Marrtinerz" target="_blank">GitHub Profile</a>
-  <a href="mailto:martins.nnamchi@colorado.edu" target="_blank">Edu Email</a>
-  <a href="mailto:mnnamchi@gmail.com" target="_blank">Gmail</a>
-</div>
+Hello 👋
 
-**[LinkedIn](https://www.linkedin.com/in/mnnamchi/) | [GitHub](https://github.com/Marrtinerz) | [Edu mail](mailto:martins.nnamchi@colorado.edu) | [Gmail](mailto:mnnamchi@gmail.com)**
+Welcome to my showroom!
 
-Hello! I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web applications using **Python, Django, and PostgreSQL**. 
+I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web applications using **Python, Django, and PostgreSQL**. 
 
 I thrive on solving complex backend problems—like high-concurrency database design and state management—while delivering hyper-performant, lightweight frontends.
 
@@ -34,9 +28,9 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ---
 
-## 🧠 AI, Data & API Projects
+## AI, Data & API Projects
 
-### 3. Predictive Modeling & FLASK Deployment of Wind-Energy Using Time Series and Regression Analyses
+### 3. Predictive Modeling & FLASK Deployment of Wind-Energy Generation Using Time Series and Regression Analyses
 **[GitHub Repository](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
 - **Tech Stack:** Python, Flask, XGBoost, Time Series Analysis
 - Developed XGBOOST-trained ML models to forecast wind energy generation and deployed the model using a **Flask** web application, creating an interactive endpoint that delivers real-time energy predictions.
@@ -53,7 +47,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 - **Backend & APIs:** Python, Django, Flask, RESTful APIs, System Architecture
 - **Frontend:** JavaScript (ES6+), HTMX, HTML5, CSS3/SCSS, Bootstrap 5
@@ -61,8 +55,8 @@ I thrive on solving complex backend problems—like high-concurrency database de
 - **DevOps & Infrastructure:** Docker, AWS S3, Render, Git/GitHub, CI/CD
 - **AI & Data:** LLM Integrations (Gemini API), Pandas, NumPy, Scikit-Learn
 
-## 🎓 Education
+## Education
 
-- **Master of Science in Electrical and Computer Engineering** | *University of Colorado Boulder* (Expected Dec 2025)
+- **Master of Science in Electrical and Computer Engineering** | *University of Colorado Boulder* (Expected Dec 2028)
 - **Bachelor of Science in Chemistry (Honors)** | *University of Ilorin, Nigeria* (2013–2017)
-- **Certifications:** [ChatGPT Prompt Engineering (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/f9002b4a-31cf-4ceb-9aef-c7d65b1742c5?usp=sharing) | [Foundations of Data Structures and Algorithms (CU Boulder)]([url](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)) | [Trees and Graph DSA (CU Boulder)](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0) | [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
+- **Certifications:** [ChatGPT Prompt Engineering (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/f9002b4a-31cf-4ceb-9aef-c7d65b1742c5?usp=sharing) | [Foundations of Data Structures and Algorithms (CU Boulder)](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)) | [Trees and Graph DSA (CU Boulder)](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0) | [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
