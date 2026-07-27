@@ -1,5 +1,3 @@
-# Martins Nnamchi - Software Engineer
-
 **[LinkedIn](https://www.linkedin.com/in/mnnamchi/) | [GitHub](https://github.com/Marrtinerz) | [Email](mailto:martins.nnamchi@colorado.edu)**
 
 Hello! I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web applications using **Python, Django, and PostgreSQL**. 
