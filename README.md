@@ -14,7 +14,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ### 1. ShelterTree | Lead Full-Stack Engineer
 *A pan-African property intelligence and review platform.*
-**[Live Site Deployed on Render](https://mysheltertree.com) | [GitHub Repository](https://github.com/Marrtinerz/sheltertree)**
+**[Live Site Deployed on Render](https://mysheltertree.com) | [GitHub Repo](https://github.com/Marrtinerz/sheltertree)**
 - **Tech Stack:** Python, Django, PostgreSQL, HTMX, Docker, Render, AWS S3
 - **Architecture:** Engineered a hybrid PostgreSQL search engine utilizing `SearchVector` and `SearchRank` for highly accurate lexical matching without the overhead of Elasticsearch.
 - **Key Feature:** Designed a "Lazy Registration" funnel using Django Sessions and Signals for a "Trusted Handoff," instantly migrating orphaned user-generated data to new accounts post-authentication.
@@ -22,7 +22,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ### 2. HitchARide | Full-Stack Engineer
 *A cost-sharing carpooling platform tailored for the African megacity market.*
-**[GitHub Repository](https://github.com/Marrtinerz/hitcharide)**
+**[GitHub Repo](https://github.com/Marrtinerz/hitcharide)**
 - **Tech Stack:** Python, Django, PostgreSQL, Mapbox GL JS, Google Maps API
 - **Data Integrity:** Prevented race conditions in high-concurrency environments by implementing database-level locking (`select_for_update()`) and atomic transactions for the seat-booking engine.
 - **Integrations:** Decoded Google Encoded Polylines and rendered dynamic routes using Mapbox GL JS, abstracting the API layer to prevent vendor lock-in.
@@ -33,17 +33,17 @@ I thrive on solving complex backend problems—like high-concurrency database de
 ## AI, Data & API Projects
 
 ### 3. Predictive Modeling & FLASK Deployment of Wind-Energy Generation Using Time Series and Regression Analyses
-**[GitHub Repository](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
+**[GitHub Repo](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
 - **Tech Stack:** Python, Flask, XGBoost, Time Series Analysis
 - Developed XGBOOST-trained ML models to forecast wind energy generation and deployed the model using a **Flask** web application, creating an interactive endpoint that delivers real-time energy predictions.
 
 ### 4. Celebrity Identification Using Prompt Engineering via Google Gemini API
-**[GitHub Repository](https://github.com/Marrtinerz/AI-Agents)**
+**[GitHub Repo](https://github.com/Marrtinerz/AI-Agents)**
 - **Tech Stack:** Python, Google Gemini 2.0 Flash API, IPyWidgets
 - Developed an AI-powered recognition system demonstrating expertise in prompt engineering, image analysis, and secure LLM API integration.
 
 ### 5. SpaceX Launch Analysis and Landing Predictions
-**[GitHub Repository](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions) | [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)**
+**[GitHub Repo](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions) | [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)**
 - **Tech Stack:** Python, Dash/Plotly, REST APIs, SQL
 - Built an interactive Dash web application with real-time visualizations (maps and graphs) leveraging REST APIs and web scraping for data collection.
 
