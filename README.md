@@ -12,7 +12,7 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 ### 1. ShelterTree | Lead Full-Stack Engineer
 *A pan-African property intelligence and review platform.*
-**[Live Site](https://mysheltertree.com) | [GitHub Repository](https://github.com/Marrtinerz/sheltertree)**
+**[Live Site Deployed on Render](https://mysheltertree.com) | [GitHub Repository](https://github.com/Marrtinerz/sheltertree)**
 - **Tech Stack:** Python, Django, PostgreSQL, HTMX, Docker, Render, AWS S3
 - **Architecture:** Engineered a hybrid PostgreSQL search engine utilizing `SearchVector` and `SearchRank` for highly accurate lexical matching without the overhead of Elasticsearch.
 - **Key Feature:** Designed a "Lazy Registration" funnel using Django Sessions and Signals for a "Trusted Handoff," instantly migrating orphaned user-generated data to new accounts post-authentication.
