@@ -1,6 +1,6 @@
 title: Martins Nnamchi
 description: Portfolio of Martins Nnamchi, a Full-Stack Software Engineer specializing in Python, Django, and PostgreSQL architecture.
-remote-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
