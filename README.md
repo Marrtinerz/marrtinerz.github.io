@@ -61,4 +61,5 @@ I thrive on solving complex backend problems—like high-concurrency database de
 
 - **Master of Science in Electrical and Computer Engineering** | *University of Colorado Boulder* (Expected Dec 2028)
 - **Bachelor of Science in Chemistry (Honors)** | *University of Ilorin, Nigeria* (2013–2017)
-- **Certifications:** [ChatGPT Prompt Engineering (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/f9002b4a-31cf-4ceb-9aef-c7d65b1742c5?usp=sharing) | [Foundations of Data Structures and Algorithms (CU Boulder)](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)) | [Trees and Graph DSA (CU Boulder)](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0) | [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
+- **Certifications:**
+[ChatGPT Prompt Engineering (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/f9002b4a-31cf-4ceb-9aef-c7d65b1742c5?usp=sharing) | [Foundations of Data Structures and Algorithms (CU Boulder)](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)) | [Trees and Graph DSA (CU Boulder)](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0) | [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
