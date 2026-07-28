@@ -6,7 +6,7 @@ Welcome to my showroom!
 
 I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web applications using **Python, Django, and PostgreSQL**. 
 
-I thrive on solving complex backend problems—like high-concurrency database design and state management—while delivering hyper-performant, lightweight frontends.
+I thrive on solving complex backend problems, such as high-concurrency database design and state management, while delivering hyper-performant, lightweight frontends.
 
 ---
 
