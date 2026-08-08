@@ -4,7 +4,7 @@
 
 Welcome to my showroom!
 
-I am a **Product-Minded Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web architectures using tools such as **Python, Django, Docker, and PostgreSQL**.
+I am a **Product-Minded ML/Software Engineer** and an MS in Electrical & Computer Engineering candidate at CU Boulder. With a unique background blending 7 years of rigorous technical editing with full-stack architecture, I specialize in designing, building, and deploying scalable web architectures using tools such as **Python, Django, Docker, and PostgreSQL**.
 
 I thrive on solving complex backend problems, such as high-concurrency database design and state management, while delivering hyper-performant, lightweight frontends.
 
@@ -32,17 +32,23 @@ I thrive on solving complex backend problems, such as high-concurrency database 
 
 ## AI, Data & API Projects
 
-### 3. Predictive Modeling & FLASK Deployment of Wind-Energy Generation Using Time Series and Regression Analyses
+### 3. Freight Rate Modeling with Hyperparameter Tuning & Advanced Feature Engineering
+**[GitHub Repo](https://github.com/Marrtinerz/spotter_ml_assessment)**
+- **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, Data Pipelines, Unit Testing
+- Developed a Log-Transformed XGBoost pricing engine to forecast volatile freight rates, achieving a 5.2% MAPE (reducing pricing errors by over $50 per load) to protect business profit margins.
+- Architected an end-to-end, decoupled training and batch inference pipeline using Scikit-Learn, integrating spatial lookup tables (Lat/Lon) and strict chronological out-of-time validation to eliminate future data leakage..
+
+### 4. Predictive Modeling & FLASK Deployment of Wind-Energy Generation Using Time Series and Regression Analyses
 **[GitHub Repo](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
 - **Tech Stack:** Python, Flask, XGBoost, Time Series Analysis
 - Developed XGBOOST-trained ML models to forecast wind energy generation and deployed the model using a **Flask** web application, creating an interactive endpoint that delivers real-time energy predictions.
 
-### 4. Celebrity Identification Using Prompt Engineering via Google Gemini API
+### 5. Celebrity Identification Using Prompt Engineering via Google Gemini API
 **[GitHub Repo](https://github.com/Marrtinerz/AI-Agents)**
 - **Tech Stack:** Python, Google Gemini 2.0 Flash API, IPyWidgets
 - Developed an AI-powered recognition system demonstrating expertise in prompt engineering, image analysis, and secure LLM API integration.
 
-### 5. SpaceX Launch Analysis and Landing Predictions
+### 6. SpaceX Launch Analysis and Landing Predictions
 **[GitHub Repo](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions) | [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)**
 - **Tech Stack:** Python, Dash/Plotly, REST APIs, SQL
 - Built an interactive Dash web application with real-time visualizations (maps and graphs) leveraging REST APIs and web scraping for data collection.
@@ -55,7 +61,7 @@ I thrive on solving complex backend problems, such as high-concurrency database 
 - **Frontend:** JavaScript (ES6+), HTMX, HTML5, CSS3/SCSS, Bootstrap 5
 - **Databases:** PostgreSQL (Full-Text Search, Aggregations), SQL, NoSQL
 - **DevOps & Infrastructure:** Docker, AWS S3, Render, Git/GitHub, CI/CD
-- **AI & Data:** LLM Integrations (Gemini API), Pandas, NumPy, Scikit-Learn
+- **AI & Data:** XGBoost, Scikit-Learn, Pandas, NumPy, LLM Integrations (Gemini API, Prompt Engineering), Predictive Analytics.
 
 ## Education
 
